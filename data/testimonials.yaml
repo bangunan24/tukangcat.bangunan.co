@@ -1,58 +1,57 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Eko
+    name: Dedi
     message: >-
-      Saya menggunakan jasa pengecatan dari tukangcat.bangunan.co untuk hunian
-      saya, dan hasilnya luar biasa. Pengecatannya bersih dan rapi dan hasilnya
-      benar-benar memuaskan.
+      Pengecatan dinding rumah saya dilakukan oleh tukangcat.bangunan.co, dan
+      saya sangat puas dengan hasilnya. Pekerjaan mereka cepat dan rapi serta
+      membuat rumah terlihat baru.
     response: >-
       Terima kasih atas kepercayaan Anda! Kami selalu berusaha memberikan hasil
       terbaik.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Putri
-    message: >-
-      Saya merasa sangat terbantu oleh tukangcat.bangunan.co dalam memilih warna
-      cat untuk rumah saya. Pengecatan dilakukan sangat rapi dan hasil akhirnya
-      benar-benar indah.
-    response: >-
-      Terima kasih atas ulasannya. Kami senang dapat memberikan hasil sesuai
-      dengan keinginan Anda.
-    rating: 5
-  - avatar: /images/admin/avatar3.png
-    name: Samsul
-    message: >-
-      Pekerjaan pengecatan yang dilakukan oleh tukangcat.bangunan.co benar-benar
-      bagus. Hasil pengecatannya rapi dan sesuai ekspektasi saya.
-    response: >-
-      Terima kasih atas ulasannya, Kami senang bisa memberikan hasil pengecatan
-      yang memuaskan.
-    rating: 4
-  - avatar: /images/admin/avatar4.png
-    name: Joko
-    message: >-
-      Saya sangat puas dengan hasil pengecatan dari tukangcat.bangunan.co.
-      Tembok terlihat lebih baru dan bagus..
-    response: >-
-      Senang mendengar Anda puas dengan layanan kami. Terima kasih atas ulasan
-      positifnya!
-    rating: 5
-  - avatar: /images/admin/avatar5.png
     name: Dewi
     message: >-
-      Layanan tukangcat.bangunan.co benar-benar baik. Hasil pengecatan dinding
-      luar biasa dan memenuhi ekspektasi saya.
+      tukangcat.bangunan.co membantu sekali dalam memilih cat dan mengecat
+      dinding rumah saya. Hasilnya bersih dan sesuai dengan ekspektasi saya.
     response: >-
-      Kami sangat berterima kasih atas kepercayaannya. Senang bisa memberikan
-      hasil terbaik untuk Anda.
+      Terima kasih atas kepercayaannya. Kami akan terus berusaha memberikan
+      hasil terbaik.
+    rating: 5
+  - avatar: /images/admin/avatar3.png
+    name: Agus
+    message: >-
+      Pekerjaan pengecatan yang dilakukan oleh tukangcat.bangunan.co sangat
+      memuaskan. Hasil pengecatannya sesuai dan sesuai harapan saya.
+    response: >-
+      Terima kasih, Kami selalu berusaha memberikan layanan pengecatan memuaskan
+      dengan hasil rapi.
     rating: 4
-  - avatar: /images/admin/avatar6.png
+  - avatar: /images/admin/avatar4.png
     name: Hendra
     message: >-
-      Saya puas dengan pengecatan tembok dari tukangcat.bangunan.co. Hasilnya
-      tepat dengan rencana renovasi rumah saya, pengerjaannya cepat dan sangat
+      Saya sangat puas dengan hasil cat tembok dari tukangcat.bangunan.co.
+      Tembok terlihat lebih cerah dan indah..
+    response: >-
+      Terima kasih, atas kepercayaannya! Kami senang bisa memberikan hasil
+      pengecatan yang berkualitas tinggi.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Lina
+    message: >-
+      tukangcat.bangunan.co memberikan pelayanan memuaskan. Hasil pengecatan
+      sangat berkualitas dan sesuai dengan rencana saya.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan impian pengecatan Anda
+      dengan hasil berkualitas.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Dedi
+    message: >-
+      Saya sangat senang dengan pengecatan tembok dari tukangcat.bangunan.co.
+      Hasilnya sesuai dengan renovasi rumah saya, pengerjaannya cepat dan sangat
       bersih.
     response: >-
-      Kami senang mendengar bahwa Anda sangat senang dengan layanan pengecatan
-      kami. Terima kasih atas ulasannya!
+      Kami senang mendengar bahwa Anda terkesan dengan layanan pengecatan kami.
+      Terima kasih atas feedback positifnya!
     rating: 5
