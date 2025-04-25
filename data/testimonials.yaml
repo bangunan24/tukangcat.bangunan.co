@@ -1,58 +1,58 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Eko
     message: >-
       Pengecatan dinding rumah saya dilakukan oleh tukangcat.bangunan.co, dan
-      saya terkesan dengan hasilnya. Pekerjaan mereka cepat dan rapi serta
-      benar-benar berkualitas.
+      saya terkesan dengan hasilnya. Pekerjaan mereka sangat baik serta membuat
+      rumah terlihat baru.
     response: >-
-      Kami sangat menghargai ulasan dari Anda. Terima kasih telah mempercayakan
-      pengecatan kepada kami.
+      Terima kasih atas kepercayaannya! Kami senang dapat memberikan hasil
+      pengecatan terbaik untuk rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Dewi
+    name: Nina
     message: >-
-      tukangcat.bangunan.co membantu sekali dalam memilih warna dan mengecat
-      dinding rumah saya. Hasilnya sangat rapi dan sesuai dengan rencana saya.
+      Saya merasa sangat terbantu oleh tukangcat.bangunan.co dalam memilih warna
+      cat untuk rumah saya. Pengecatan dilakukan sangat rapi dan hasil akhirnya
+      benar-benar bagus.
     response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda terkesan
-      dengan hasil pengecatan kami.
+      Kami sangat berterima kasih atas ulasan Anda. Senang mendengar bahwa Anda
+      puas dengan hasil pengecatan kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
     name: Budi
     message: >-
-      Hasil pengecatan dari tukangcat.bangunan.co bersih dan rapi dan
-      benar-benar sesuai ekspektasi saya. Pekerjaan dilakukan dengan profesional
-      dan berkualitas.
+      Pekerjaan pengecatan yang dilakukan oleh tukangcat.bangunan.co benar-benar
+      bagus. Hasil pengecatannya sesuai dan sesuai ekspektasi saya.
     response: >-
-      Terima kasih atas ulasannya, Kami senang bisa memberikan hasil pengecatan
-      yang memuaskan.
+      Terima kasih, Kami berkomitmen memberikan layanan pengecatan berkualitas
+      dengan hasil terbaik.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Fajar
-    message: >-
-      Saya sangat puas dengan hasil pengecatan dari tukangcat.bangunan.co.
-      Tembok terlihat lebih segar dan bagus..
-    response: >-
-      Senang mendengar Anda sangat senang dengan layanan kami. Terima kasih atas
-      kepercayaannya!
-    rating: 5
-  - avatar: /images/admin/avatar5.png
-    name: Rina
-    message: >-
-      Pelayanan tukangcat.bangunan.co memuaskan sekali. Hasil pengecatan dinding
-      luar biasa dan benar-benar sesuai harapan.
-    response: >-
-      Kami sangat berterima kasih atas kepercayaannya. Senang bisa memberikan
-      hasil yang memuaskan untuk Anda.
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Eko
     message: >-
-      Saya terkesan dengan pengecatan tembok dari tukangcat.bangunan.co.
-      Hasilnya sesuai dengan rencana renovasi rumah saya, pengerjaannya cepat
-      dan sangat bersih.
+      Layanan pengecatan dari tukangcat.bangunan.co terbaik. Hasil akhirnya luar
+      biasa. Tembok rumah saya sekarang terlihat lebih baru dan rapi.
     response: >-
-      Kami senang mendengar bahwa Anda sangat senang dengan layanan pengecatan
-      kami. Terima kasih atas ulasannya!
+      Terima kasih, kami senang dapat menyediakan layanan yang berkualitas
+      tinggi.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Putri
+    message: >-
+      tukangcat.bangunan.co memberikan pelayanan terbaik. Hasil pengecatan
+      sangat berkualitas dan sesuai dengan rencana saya.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek pengecatan Anda
+      dengan hasil terbaik.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Samsul
+    message: >-
+      Saya puas dengan pengecatan tembok dari tukangcat.bangunan.co. Hasilnya
+      sesuai dengan rencana renovasi rumah saya, pengerjaannya cepat dan sangat
+      rapi.
+    response: >-
+      Kami senang mendengar bahwa Anda terkesan dengan layanan pengecatan kami.
+      Terima kasih atas ulasannya!
     rating: 5
