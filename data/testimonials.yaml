@@ -1,57 +1,57 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
+    name: Joko
     message: >-
-      Pengecatan dinding rumah saya dilakukan oleh tukangcat.bangunan.co, dan
-      saya senang dengan hasilnya. Pekerjaan mereka sangat baik serta membuat
-      rumah terlihat baru.
+      Saya menggunakan jasa tukang cat dari tukangcat.bangunan.co untuk rumah
+      saya, dan hasilnya luar biasa. Pengecatannya sangat rapi dan hasilnya
+      benar-benar memuaskan.
     response: >-
-      Terima kasih atas kepercayaannya! Kami gembira dapat memberikan hasil
+      Terima kasih atas ulasan positifnya! Kami gembira dapat memberikan hasil
       pengecatan yang memuaskan untuk rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Lina
+    name: Maya
     message: >-
-      Saya merasa sangat terbantu oleh tukangcat.bangunan.co dalam memilih warna
-      cat untuk rumah saya. Pengecatan dilakukan secara rapi dan hasil akhirnya
-      benar-benar bagus.
+      tukangcat.bangunan.co membantu sekali dalam memilih warna dan melakukan
+      pengecatan dinding rumah saya. Hasilnya sangat rapi dan sesuai dengan
+      keinginan saya.
     response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda terkesan
-      dengan hasil pengecatan kami.
+      Kami sangat berterima kasih atas ulasan Anda. Senang mendengar bahwa Anda
+      terkesan dengan hasil pengecatan kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Samsul
+    name: Rudi
     message: >-
       Pekerjaan pengecatan yang dilakukan oleh tukangcat.bangunan.co benar-benar
-      bagus. Hasil pengecatannya rapi dan sesuai keinginan saya.
+      bagus. Hasil pengecatannya sesuai dan sesuai ekspektasi saya.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Senang mendengar Anda terkesan
       dengan hasil kerja kami.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Andi
-    message: >-
-      Saya sangat puas dengan hasil pengecatan dari tukangcat.bangunan.co.
-      Tembok terlihat lebih cerah dan berkualitas..
-    response: >-
-      Terima kasih, atas kerja samanya! Kami senang bisa memberikan hasil
-      pengecatan yang berkualitas tinggi.
-    rating: 5
-  - avatar: /images/admin/avatar5.png
-    name: Siti
-    message: >-
-      tukangcat.bangunan.co memberikan pelayanan baik. Hasil pengecatan sangat
-      baik dan sesuai dengan keinginan saya.
-    response: >-
-      Kami sangat berterima kasih atas kepercayaannya. Senang bisa memberikan
-      hasil berkualitas untuk Anda.
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Hendra
     message: >-
-      Pengecatan tembok dari tukangcat.bangunan.co benar-benar memenuhi
-      kebutuhan renovasi rumah saya. Pengerjaannya tepat waktu dan baik sekali..
+      Layanan pengecatan dari tukangcat.bangunan.co sangat baik. Hasil akhirnya
+      luar biasa. Tembok rumah saya sekarang terlihat lebih baru dan bersih.
     response: >-
-      Kami senang mendengar bahwa Anda terkesan dengan layanan pengecatan kami.
-      Terima kasih atas feedback positifnya!
+      Terima kasih, kami senang dapat menyediakan layanan yang berkualitas
+      tinggi.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Lina
+    message: >-
+      Pelayanan tukangcat.bangunan.co sangat memuaskan. Hasil pengecatan dinding
+      berkualitas tinggi dan sesuai dengan yang saya harapkan.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan impian pengecatan Anda
+      dengan hasil terbaik.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Andi
+    message: >-
+      Saya puas dengan pengecatan tembok dari tukangcat.bangunan.co. Hasilnya
+      tepat dengan renovasi rumah saya, pengerjaannya efisien dan sangat rapi.
+    response: >-
+      Kami senang mendengar bahwa Anda puas dengan layanan pengecatan kami.
+      Terima kasih atas ulasannya!
     rating: 5
