@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Pasirjambu
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - biaya
 description: >-

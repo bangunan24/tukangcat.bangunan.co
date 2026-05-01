@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Krukut Depok
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - biaya
 description: >-

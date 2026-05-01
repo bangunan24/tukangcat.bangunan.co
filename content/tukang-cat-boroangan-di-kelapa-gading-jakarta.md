@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Kelapa Gading Jakarta
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - biaya
 description: >-
