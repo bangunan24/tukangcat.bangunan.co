@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Kamal Muara Jakarta
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - biaya
 description: >-

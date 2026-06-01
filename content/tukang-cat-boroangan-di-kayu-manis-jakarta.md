@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Kayu Manis Jakarta
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - biaya
 description: >-
