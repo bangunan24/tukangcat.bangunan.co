@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Padalarang
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - biaya
 description: >-

@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Sindangrasa Bogor
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - biaya
 description: >-
