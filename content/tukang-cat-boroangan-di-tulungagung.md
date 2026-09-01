@@ -1,6 +1,6 @@
 ---
 title: Tukang Cat Boroangan di Tulungagung
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - biaya
 description: >-
